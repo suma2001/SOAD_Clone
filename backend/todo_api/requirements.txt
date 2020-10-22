@@ -1,1 +1,3 @@
-
+djangorestframework==3.11.0
+django==2.2.7
+django-cors-header==3.5.0
